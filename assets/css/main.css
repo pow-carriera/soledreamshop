@@ -3372,3 +3372,11 @@ input, select, textarea {
 		  .tilep {
 			font-size:1.2em;
 		  }
+		  .reposition {
+			  position:relative;
+		  }
+		  @media (max-width: 760px) {
+			  .tohide {
+				  display:none;
+			  }
+		  }
